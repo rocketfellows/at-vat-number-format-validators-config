@@ -5,6 +5,7 @@ namespace rocketfellows\ATVatNumberFormatValidatorsConfig\tests\unit;
 use arslanimamutdinov\ISOStandard3166\ISO3166;
 use PHPUnit\Framework\TestCase;
 use rocketfellows\ATVatFormatValidator\ATVatFormatValidator;
+use rocketfellows\ATVatNumberFormatValidatorsConfig\ATVatNumberFormatValidatorsConfig;
 use rocketfellows\CountryVatFormatValidatorInterface\CountryVatFormatValidatorInterface;
 use rocketfellows\CountryVatFormatValidatorInterface\CountryVatFormatValidators;
 use rocketfellows\CountryVatNumberFormatValidatorsConfig\CountryVatNumberFormatValidatorsConfigInterface;
